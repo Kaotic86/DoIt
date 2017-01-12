@@ -13,6 +13,7 @@
 		72DDBDB71E27EE8D009D4E0F /* DoIt.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 72DDBDB51E27EE8D009D4E0F /* DoIt.xcdatamodeld */; };
 		72DDBDB91E27EE8D009D4E0F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72DDBDB81E27EE8D009D4E0F /* Assets.xcassets */; };
 		72DDBDBC1E27EE8D009D4E0F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72DDBDBA1E27EE8D009D4E0F /* LaunchScreen.storyboard */; };
+		72DDBDC41E27F3A2009D4E0F /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72DDBDC31E27F3A2009D4E0F /* Task.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		72DDBDB81E27EE8D009D4E0F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		72DDBDBB1E27EE8D009D4E0F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		72DDBDBD1E27EE8D009D4E0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		72DDBDC31E27F3A2009D4E0F /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				72DDBDAE1E27EE8D009D4E0F /* AppDelegate.swift */,
 				72DDBDB01E27EE8D009D4E0F /* ViewController.swift */,
+				72DDBDC31E27F3A2009D4E0F /* Task.swift */,
 				72DDBDB21E27EE8D009D4E0F /* Main.storyboard */,
 				72DDBDB81E27EE8D009D4E0F /* Assets.xcassets */,
 				72DDBDBA1E27EE8D009D4E0F /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72DDBDC41E27F3A2009D4E0F /* Task.swift in Sources */,
 				72DDBDB71E27EE8D009D4E0F /* DoIt.xcdatamodeld in Sources */,
 				72DDBDB11E27EE8D009D4E0F /* ViewController.swift in Sources */,
 				72DDBDAF1E27EE8D009D4E0F /* AppDelegate.swift in Sources */,
